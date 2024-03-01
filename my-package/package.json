@@ -1,5 +1,5 @@
 {
-    "name": "@KurniawanZATY/publish_to_npm_using_github_actionst",
+    "name": "@kurniawanzaty/publish_to_npm_using_github_actionst",
     "version": "0.0.1",
     "description": "📦 npm package tutorial",
     "main": "index.js",
